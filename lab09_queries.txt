@@ -1,0 +1,149 @@
+1 ?- consult('lab09_name_game.pl').
+true.
+
+2 ?- name_game.
+Hi, This is the "Name Game".
+You will be given a set of English letters in which you will add, delete or move to create your name.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice....
+|: 1.
+[a,b,c]
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice....
+|: 5.
+Enter a letter to delete: |: b.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice....
+|: 5.
+Enter a letter to delete: |: c.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice....
+|: 2.
+Enter a letter: |: o.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice....
+|: 5.
+Enter a letter to delete: |: a.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice....
+|: 4.
+Enter a letter: |: a.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice....
+|: 3.
+Enter a letter: |: r.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice....
+|: 4.
+Enter a letter: |: a.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice....
+|: 1.
+[r,o,a,a]
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice....
+|: 6.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice....
+|: 1.
+[]
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice....
+|: 7.
+true.
